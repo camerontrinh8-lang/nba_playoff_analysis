@@ -33,7 +33,8 @@ This project analyzes data from 4 NBA seasons(2022-2026) to determine the statis
 ### Scoring efficiency vs. volume
 
 <img src="images/player_efficiency_vs_volume.png" width="750" alt="player efficiency vs volume">
-**Analysis** Playoff and non-playoff players have similar usage-rate distributions, playoff players are more concentrated around 55–60% true shooting, while non-playoff players exhibit greater variability and tend towards lower efficiencies.
+
+**Analysis** Playoff and non-playoff players have similar usage-rate distributions. Playoff players are more concentrated around 55–60% true shooting, while non-playoff players exhibit greater variability and tend towards lower efficiencies.
 
 ## Offensive vs. defensive rating
 
