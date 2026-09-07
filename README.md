@@ -32,8 +32,7 @@ This project analyzes data from 4 NBA seasons(2022-2026) to determine the statis
 
 ### Scoring efficiency vs. volume
 
-<img src="images/player_effcicency_vs_volume.png" width="750" alt="Player efficieny vs volume">
-
+<img src="images/player_efficiency_vs_volume.png" width="750" alt="player efficiency vs volume">
 **Analysis** The usage rate of non-playoff and playoff players overlap, however the red dots cluster around 55%-60% while the gray dots drop below.
 
 ## Offensive vs. defensive rating
@@ -43,8 +42,7 @@ This project analyzes data from 4 NBA seasons(2022-2026) to determine the statis
 **Analysis** The 4 quadrant graph allows us to view that playoff teams tend to cluster in the upper right quadrant where both offense and defense are above average. It is also worth noting playoff teams not in this quadrant are among the elites in terms of offensive or defensive rating, showing that teams can compensate not being above average in both offensive and defensive rating by specializing on one side of the court.
 
 ## Turnovers vs assists per game
-<
-img src="images/assists_vs_turnovers.png" width="750" alt="assists vs turnovers">
+<img src="images/assists_vs_turnovers.png" width="750" alt="assists vs turnovers">
 
 **Analysis** Playoff teams cluster below the average turnover line with most post-season rosters hovering around 12-14 turnovers per game. The top left quadrant where teams have high turnovers and low assists per game mainly consists of non-playoff teams.
 
